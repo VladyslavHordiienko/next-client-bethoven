@@ -1,0 +1,8 @@
+export {default as DeliveryIcon} from './DeliveryIcon.svg'
+export {default as PhoneIcon} from './PhoneIcon.svg'
+export {default as ArrowIcon} from './ArrowIcon.svg'
+export {default as CartIcon} from './CartIcon.svg'
+export {default as FilterIcon} from './FilterIcon.svg'
+export {default as CancelIcon} from './CancelIcon.svg'
+export {default as BurgerIcon} from './BurgerIcon.svg'
+export {default as SearchIcon} from './SearchIcon.svg'
